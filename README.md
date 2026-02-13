@@ -23,3 +23,5 @@ bye
 byebye
 # Update by Binbing Yang
 i'm back
+# Commit 7 by Rose
+welcome
