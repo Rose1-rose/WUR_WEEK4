@@ -19,3 +19,5 @@ missu
 miss u 2
 # Update by Binbing Yang
 bye
+# Commit 6 by Rose
+byebye
